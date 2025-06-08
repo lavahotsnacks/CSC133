@@ -4,7 +4,6 @@ Modeling and Simulation
 - `main.cpp`
 - `QueueSimulation.cpp`
 - `QueueSimulation.h`
-(sir jojo's files)
 - `RandomGenExpoMean.cpp`
 - `RandomGenExpoMean.h`
 
