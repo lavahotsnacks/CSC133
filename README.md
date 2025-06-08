@@ -16,5 +16,5 @@ main features that i did here are:
 - any free server always serve the customer that arrived the earliest in any queue
 - supports multiple scenarios (varying number of servers, queues, and arrival/services rates)
 - queues and arrival/services rates are generated using sir Jojo's random function with a given mean.
-#### `RandomGenExpoMean.cpp` / `RandomGenExpoMean.h`
+### `RandomGenExpoMean.cpp` / `RandomGenExpoMean.h`
 code is from sir Jojo. original file is a single file but separated into _header_ and _implementation_ files due to compile error in MacOS.
